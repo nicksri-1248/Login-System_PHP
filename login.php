@@ -66,7 +66,7 @@
 <?php
 if($login){
     echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
-    <strong>Success</strong> You are loged in.
+    <strong>Success</strong> Thank you! You are loged in.
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
       <span aria-hidden="true">&times;</span>
     </button>
@@ -89,7 +89,7 @@ if($login){
   </div>
  
   
-  <button type="submit" class="btn btn-primary">Singin</button>
+  <button type="submit" class="btn btn-success">Singin</button>
 </form>
    
    </div>
