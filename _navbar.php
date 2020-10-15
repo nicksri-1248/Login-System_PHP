@@ -1,6 +1,8 @@
 <!--navbar--->
 <?php
 
+// from here the new session start
+
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true){
     $loggedin = true;
 }
