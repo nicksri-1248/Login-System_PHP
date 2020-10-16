@@ -1,2 +1,2 @@
 # Login-System_PHP
-This is easy login system in php
+This is easy login system coded in php
